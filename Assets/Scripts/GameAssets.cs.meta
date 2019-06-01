@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2919f3d7c995afd47b5e7e7e7177755e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SnakeHeadSprite: {fileID: 21300000, guid: ed57e9a10762e9e4386944c6610cd6de, type: 3}
+  - SnakeBodySprite1: {fileID: 21300000, guid: e64cad5e1c8f3704d8ef9ecdacf60e84, type: 3}
+  - SnakeBodySprite2: {fileID: 21300000, guid: a652264c286b0eb4cb54cb0ef46414b4, type: 3}
+  - SnakeTailSprite: {fileID: 21300000, guid: e7fc6b0eed168b847a19512d3b593600, type: 3}
+  - FoodSprite: {fileID: 21300000, guid: d902e746d7b87e6459998c91bf572494, type: 3}
+  executionOrder: -50
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
