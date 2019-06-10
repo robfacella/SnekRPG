@@ -1,0 +1,21 @@
+Normal Snake Game
+
+Bounding Play Area
+Score Tracking
+The Snake
+    Block - Trail of blocks behind of size length
+
+Food - Fruit or smaller block of different color than snake itself
+      Random spawn on open spaces
+
+High Score List
+    Biggest Losers (ie whomever didn't find the next stage)
+
+G - RED
+D - YELLOW
+S - BLUE
+
+RED > YELLOW > BLUE
+RoYgBiv order
+
+--------------------------
